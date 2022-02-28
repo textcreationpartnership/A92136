@@ -1,0 +1,270 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Joy of Angels. Delivered in a sermon before the Honourable Society of Grayes-Inne, on the last day of June, 1656. By Ja: Rutherford D.D.</title>
+            <author>Rutherford, James, D.D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92136</idno>
+            <idno type="STC">Wing R2372</idno>
+            <idno type="STC">Thomason E948_6</idno>
+            <idno type="STC">ESTC R207576</idno>
+            <idno type="EEBO-CITATION">99866618</idno>
+            <idno type="PROQUEST">99866618</idno>
+            <idno type="VID">118895</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92136)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118895)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 142:E948[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Joy of Angels. Delivered in a sermon before the Honourable Society of Grayes-Inne, on the last day of June, 1656. By Ja: Rutherford D.D.</title>
+                  <author>Rutherford, James, D.D.</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J. G. for Henry Seile, and are to be sold at his shop in the Bulwark near the Tower,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLVIII. [1658]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first leaf is blank.</note>
+                  <note>Annotation on Thomason copy: on blank prelim. leaf: "Hear is all of this paper, that came out those two months of July &amp; August"; on title page: "July 16th"; July 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118895:1"/>
+            <pb facs="tcp:118895:1" rendition="simple:additions"/>
+            <p>
+               <hi>JOY</hi> of <hi>ANGELS.</hi>
+            </p>
+            <p>Delivered in a SERMON Before the HONOURABLE SOCIETY OF <hi>GRAYES-INNE,</hi> On the laſt Day of <hi>JUNE,</hi> 1656.</p>
+            <p>BY JA: RUTHERFORD <hi>D. D.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J.G.</hi> for <hi>Henry Seile,</hi> and are to be ſold at his ſhop in the Bulwark near the Tower. <hi>MDCLVIII.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:118895:2"/>
+            <pb n="1" facs="tcp:118895:2"/>
+            <head>
+               <figure>
+                  <figDesc>crown surmounting French fleur-de-lis with crown surmounting Tudor rose and Scottish thistle on either side</figDesc>
+               </figure>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>S. LUKE 15.10.</hi>
+                  </bibl>
+                  <p>Likewiſe I ſay unto you, There is Joy in the preſence of the Angels of God, over one ſinner that repenteth.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">M</seg>Ans Life upon earth is a Compound of croſs Ingredients, Gall and Honey, bit<g ref="char:EOLhyphen"/>ter and ſweet, ſorrow and joy. The ad<g ref="char:EOLhyphen"/>venturous Mariner is reſiſted with adverſe Winds, aſſiſted with proſperous Gales; the laborious Husbandman doth reap his Corn nipt with the auſterity of a gloomy Winter, che<g ref="char:EOLhyphen"/>riſh'd with influences of the benign Sun: Nor indeed is there any man ſo abandon'd unto ſtorms, that hath not had ſome ſhare or hopes of better times. Were the whole life of man a texture of never-intermitted woes, none would deſire to live; and if it were a conti<g ref="char:EOLhyphen"/>nued Feſtivity, none would wiſh to die.</p>
+            <p>Whether our Adverſities are more abated by others fellow-mourning, or our Felicities more improved by the co-rejoycing of others, is a queſtion, yet without
+<pb n="2" facs="tcp:118895:3"/>all queſtion. The ſympathy of others makes a ſad eſtate leſs heavy, and a joyful more happy. Our Sa<g ref="char:EOLhyphen"/>viour prophetically proclaims his Solitude in the Gar<g ref="char:EOLhyphen"/>den, when his ſweat was as drops of blood running down upon the earth, an aggravation of his grief. <hi>I have trod the wine-preſs alone, and of all the people there was none with me,</hi> Iſa. 63.3. And the miniſtration of a ſtrengthning Angel was forthwith ordered, to al<g ref="char:EOLhyphen"/>leviate the apprehenſions of his incumbent and impen<g ref="char:EOLhyphen"/>dent ſufferings, S. <hi>Luke</hi> 22.43.</p>
+            <p>At his death upon the Croſs, ye know he cried out, to the aſtoniſhment of Heaven it ſelf, <hi>My God, my God, why haſt thou forſaken me?</hi> Matth. 27.46. whilſt men paſt by, not conſidering the greatneſs of his grief, God afflicting him in the day of the fierceneſs of his wrath for the ſins of Mankinde; the Sun was eclipſed, the Earth trembled, the Rocks rent, the Graves open<g ref="char:EOLhyphen"/>ed, <hi>Theſe were his Mourners;</hi> and ſo ferious Mourners, as never were, nor ſhall the like be any more. And having drank of the Brook in the way, the third day he <hi>lifted up</hi> the head <hi>victoriouſly;</hi> the joy whereof is not terminated in himſelf, or imparted to the Saints onely, but 'tis proclaimed by Angels, exhilarated Angels, no ſmall acceſſion to our Saviours glory. Adde we his Aſcenſion by the natural power of his Godhead, and ſupernatural power of his then-glorified Manhood, lifting up his Body from the Mount of <hi>olives</hi> far above all Heavens, to wit, <hi>aſpectable</hi> Hea<g ref="char:EOLhyphen"/>vens, really, viſibly, locally attended with rejoycing Angels, not as Partners, but Preachers of his Celeſtial Triumph, <hi>Act.</hi> 1.10.</p>
+            <p>But as the miſery of man ſtands principally in ſin,
+<pb n="3" facs="tcp:118895:3"/>ſo the warre and oppoſition of the Creatures in the ſtate of ſeparation from his God, is no petit additio<g ref="char:EOLhyphen"/>nal unto his wretched being; none of the creatures truly touch'd with a pity of him, that will have no pity towards his own Soul: But Repentance, the grace of Repentance, breaks down the <hi>partition wall,</hi> from whence ariſeth not onely a league betwixt the <hi>Creature</hi> and the <hi>Convert,</hi> but the <hi>Bleſſed Angels</hi> alſo, whoſe reſidence is moſtly above, needleſs of Self-converſion, yet are they very liberal of their gratu<g ref="char:EOLhyphen"/>lations.</p>
+            <p>A Gregarian or Common Souldier, who behaves himſelf in battel with prudent valour of ſignal emi<g ref="char:EOLhyphen"/>nency, receives not onely a <hi>Guerdon</hi> from his Com<g ref="char:EOLhyphen"/>mander in Chief, but <hi>Laurels of Applauſes</hi> from ſpe<g ref="char:EOLhyphen"/>ctators of the fight. No otherwiſe man, coming home by true Repentance to his God, findes not onely ac<g ref="char:EOLhyphen"/>ceptation at his hand, <hi>who as he liveth doth deſire a ſin<g ref="char:EOLhyphen"/>ner ſhould live;</hi> from whence reſulteth joy, <hi>exceeding joy,</hi> but the <hi>Loyal Angels alſo</hi> break forth in ſacred Jubilations, <hi>Likewiſe I ſay unto you, There is &amp;c.</hi>
+            </p>
+            <div type="part">
+               <head>CONNEXION.</head>
+               <p>Our bleſſed Lord and Saviour having laid aſide his Eternal Majeſty, wherewith he was clothed as with a garment, and put on the ſordid Rags of our Morta<g ref="char:EOLhyphen"/>lity, wherein he muſt ſatisfie the <hi>violated Juſtice</hi> of God, and purchaſe <hi>Eternal Redemption</hi> unto man, met with much oppoſition from <hi>Men and Devils.</hi> Where<g ref="char:EOLhyphen"/>of, though the whole Evangelical Compilement bear<g ref="char:EOLhyphen"/>eth ample record, yet ſhall it ſuffice to ſurvey this Chapter, from whence the Text doth iſſue.</p>
+               <pb n="4" facs="tcp:118895:4"/>
+               <p>Publicans and Sinners repair to Chriſt, Scribes and Phariſees repine at that; the firſt came to hear him, but when the other heard that, they <hi>murmured.</hi> And as the malignant Spider ſucketh poyſon from the fragrant Roſe; no otherwiſe, they ſtart an accuſation againſt Chriſt, being in the very act for which he came into the world: <hi>He receiveth ſinners, and eateth with them,</hi> ver. 2. The Charge was grievous, for it com<g ref="char:EOLhyphen"/>prehends Impiety and Intemperancy, Profaneneſs and Gluttony; the Accuſers great, Scribes and Phariſees, the moſt admired for their Learning and Devotion, Knowledge and Practiſe. Though every falſe Report is not to be anſwered with too much diligence; yet Criminations of an high nature, darted from an high hand, are not to be neglected with a <hi>Stoical Apathy:</hi> The firſt being in it ſelf not weighty, and ſupported with feeble Props, will quickly fall to the ground; but the other, when diſregarded, is diffuſed even un<g ref="char:EOLhyphen"/>to overflowing prejudice. Our Saviour therefore la<g ref="char:EOLhyphen"/>boriouſly confutes their malicious ſlander, and de<g ref="char:EOLhyphen"/>fends his own act, <hi>To receive ſinners, penitent ſinners, is not ſin.</hi>
+               </p>
+               <p>Shall the ſolicitous Shepherd, who with diligence hath ſought, with patience found, and with great com<g ref="char:EOLhyphen"/>paſſion <hi>brought home the ſtray ſheep</hi> unto its fold, be re<g ref="char:EOLhyphen"/>warded with obloquie?</p>
+               <p>Shall the frugal Houſwife be rudely accuſed for her painful Exploration of her piece of Money that was loſt, or for her joy, it being found?</p>
+               <p>And who will blame a father for his tranſported joy at the hearty reformation of his Son, whom he had deem'd to be incorrigible?</p>
+               <pb n="5" facs="tcp:118895:4"/>
+               <p>Wolves they are, and not Sheep, who rejoyce not at the reduction of the wandring Sheep.</p>
+               <p>Neighbours they may be in place, but Strangers in affection, who are not gladſomely touch'd with the ſucceſsful ſearch of the thrifty woman for her amitted coyn.</p>
+               <p>And howſoever they pretend long and duteous at<g ref="char:EOLhyphen"/>tendances upon the juſt commands of their aged fa<g ref="char:EOLhyphen"/>ther, yet the truth is, they are children of Moroſity, by peeviſh diſcontent to cloud the reviving joyes of their tender Sire, at the true amendment of his de<g ref="char:EOLhyphen"/>bauched Son. Now look as <hi>Jonathan</hi> proclaim'd the unjuſt wroth of his enraged father, and his own un<g ref="char:EOLhyphen"/>changeable love to Religious <hi>David,</hi> by ſhooting of three arrows, 1 <hi>Sam.</hi> 20. even ſo doth our Saviour vindicate his own Piety in receiving true Converts, and chargeth through and through the Impiety of thoſe <hi>glorious</hi> Hypocrites, by thoſe three Parables; the firſt, of the <hi>loſt Sheep,</hi> from the third to the eighth Verſe; of the <hi>loſt Piece,</hi> from thence to the eleventh; from which Verſe to the end of the Chapter, the Parable of the <hi>loſt Son</hi> is moſt amply deduced. My Meditations are directed upon the ſecond; wherein we have, as in the other two, two general parts, <hi>Protaſis,</hi> and <hi>Anta<g ref="char:EOLhyphen"/>podoſis.</hi> Firſt, we have the Parable propounded in the ſecond Verſe immediately preceding the Text, <hi>What woman having ten pieces of money, if ſhe loſe one piece, doth not light the candle, and ſweep the houſe, and ſeek diligently till ſhe finde it? and when ſhe hath found it, ſhe calleth her friends and neighbours, ſaying, Rejoyce with me, for I have found the piece of money that was loſt:</hi> And then we have it applied in the words of the Text
+<pb n="6" facs="tcp:118895:5"/>it ſelf, <hi>Likewiſe I ſay unto you, There is joy in the pre<g ref="char:EOLhyphen"/>ſence of the Angels of God over one ſinner that re<g ref="char:EOLhyphen"/>penteth.</hi>
+               </p>
+               <p>Which to take a pieces (and to take a pieces is an eaſie piece) we have three particulars: <hi>The duty of a ſinner; The benignity of Gods Angels; The certainty of both.</hi> The firſt, is to repent; the ſecond, Gods An<g ref="char:EOLhyphen"/>gels rejoyce at the converſion of a ſinner; the certain<g ref="char:EOLhyphen"/>ty of both, <hi>Likewiſe I ſay unto you.</hi> The faithful wit<g ref="char:EOLhyphen"/>neſs in Heaven, then on Earth, hath ſpoken it: Con<g ref="char:EOLhyphen"/>tradiction muſt be ſilent, Heſitation muſt be ſatiſ<g ref="char:EOLhyphen"/>fied.</p>
+               <p>Thus the Text lies before you in its ſcattered pieces, which collected together, raiſe up this Frame or Pro<g ref="char:EOLhyphen"/>poſition:</p>
+               <q>The unfeigned converſion of a ſinner is the undoubted gratulation of Gods Angels.</q>
+               <p>In the handling whereof, this ſhall be our eaſie me<g ref="char:EOLhyphen"/>thod. 1. We ſhall unfold the terms of the Propoſi<g ref="char:EOLhyphen"/>tion. Next, we ſhall aſſign the Reaſons of the ſame. 3. We ſhall ſubjoyn two Queſtions of tendency to the further clearing of the point in hand: (Which is not the Doctrine of Repentance, nor the nature of An<g ref="char:EOLhyphen"/>gels, nor the infallibility of Chriſts ſayings; all theſe have their proper places elſwhere, the joynt of this Text lies in the <hi>Joy of Angels</hi> at the converſion of a ſinner.) And laſt of all, omitting many conſectaries and inferences <hi>Incidental,</hi> we ſhall conclude this ſhort Exerciſe with an Exhortation <hi>Intentional.</hi> I begin with the terms, and they are three, <hi>Converſion, Angels, Joy.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:118895:5"/>
+               <head>CONVERSION.</head>
+               <p>In general is a change or turning. Now all men know, that in all turnings there is ſomewhat from whence we turn, and ſomewhat to which we turn our ſelves. No otherwiſe in this converſion, Spiritual con<g ref="char:EOLhyphen"/>verſion: The <hi>Negative</hi> is the Kingdom of Sin and Sa<g ref="char:EOLhyphen"/>tan; the <hi>Poſitive</hi> is the Kingdom of Chriſt, and his Righteouſneſs. In regard of the firſt, a <hi>turning from the evil and errour of our wayes:</hi> In regard of the ſe<g ref="char:EOLhyphen"/>cond, a <hi>turning to the God of Iſrael,</hi> in the language of the Old Teſtament, frequently: Both which our Sa<g ref="char:EOLhyphen"/>viour hath knit together in that of the New, to <hi>turn them from darkneſs to light, and from the power of Satan unto God,</hi> Act. 26.18. And though the whole nature of Converſion or Repentance (for I ſhall take the free<g ref="char:EOLhyphen"/>dome to uſe them promiſcuouſly; though I am not ignorant, that in exactneſs and accuracy of ſpeech, there is ſome difference betwixt them) ſtandeth princi<g ref="char:EOLhyphen"/>pally in theſe two acts: yet more diſtinctly they muſt be attended with their ſeveral <hi>Properties.</hi> Sorrow for ſin <hi>committed,</hi> is ever previous unto ſin <hi>repented.</hi> This is that <hi>breaking up of the fallow ground,</hi> in the Old Teſtament; <hi>Compunction,</hi> in the New; and <hi>Contrition,</hi> in the language of the Schools. And Converſion un<g ref="char:EOLhyphen"/>to God (even in its dawnings) is never without hope of pardon through Chriſt, that the deſtructive precipices of ſin being abandoned, there is made ſome progreſs in the wayes of New Obedience, which onely lead un<g ref="char:EOLhyphen"/>to eternal life: for, <hi>A true penitent mourneth for his ſins, and rejoyceth for his mourning.</hi> So much for the firſt word, Converſion, unfeigned Converſion, unfeigned
+<pb n="8" facs="tcp:118895:6"/>Converſion of a ſinner; for <hi>ſinners onely</hi> are the ſub<g ref="char:EOLhyphen"/>jects of Converſion.</p>
+            </div>
+            <div type="part">
+               <head>ANGELS.</head>
+               <p>Spiritual Subſiſtences, endued with ſublime under<g ref="char:EOLhyphen"/>ſtanding, great freedom of will, and eximious ſtrength above all creatures whatſoever; of which, ſome kept not their firſt eſtate, but left their own habitation, and are now <hi>reſerved under everlaſting chains of darkneſs, untill the judgement of the great Day,</hi> S. <hi>Jude</hi> ver. 6. <hi>Angels of Darkneſs, Evil Angels, Angels of Satan,</hi> in the Scripture. Others <hi>perſiſted</hi> in their primitive obe<g ref="char:EOLhyphen"/>dience, and are now <hi>confirmed</hi> in that eſtate (againſt the Scepticiſm of <hi>Arminius</hi> be it ſpoken) without any poſ<g ref="char:EOLhyphen"/>ſibility of falling, either from their holineſs or hap<g ref="char:EOLhyphen"/>pineſs. In Scripture, <hi>Angels of Light, Elect Angels, Holy Angels;</hi> and in the Text, <hi>Angels of God,</hi> whoſe affection is <hi>Joy,</hi> the laſt and darkeſt word to be ex<g ref="char:EOLhyphen"/>plained.</p>
+            </div>
+            <div type="part">
+               <head>JOY.</head>
+               <p>Amongſt the ſinful dotages of the Fathers in the <hi>ſecond Councel of Nice,</hi> we reade, That in the fifth action thereof, <hi>John</hi> Biſhop of <hi>Theſſalonica</hi> maintain<g ref="char:EOLhyphen"/>ed, That Angels were ſubſtantially corporeal: no won<g ref="char:EOLhyphen"/>der then, if they entertained rude and groſs thoughts of their affections, and particularly of their Joy. But we have not ſo learn'd to ſpeak of Angels, whoſe na<g ref="char:EOLhyphen"/>ture, as we conceive to be ſpiritual, ſo their joy Inor<g ref="char:EOLhyphen"/>ganical. We have inward and outward Organs or In<g ref="char:EOLhyphen"/>ſtruments of letation; the like whereof to aſcribe unto thoſe high Spirits, were erroneous in it ſelf, in<g ref="char:EOLhyphen"/>jurious unto them: yet are they perfuſed with ſuch a
+<pb n="9" facs="tcp:118895:6"/>
+                  <hi>Joy</hi> at the Repentance of a ſinner, as doth not dero<g ref="char:EOLhyphen"/>gare from the ſublimity of their Natures. The mouth of the Lord hath ſpoken it in the Text, and therefore I ſaid in the Doctrine, their gratulation was undoubt<g ref="char:EOLhyphen"/>ed; Undoubted in it ſelf, though the manner is un<g ref="char:EOLhyphen"/>known to us, and ſo ſhall be untill that time, that <hi>Time ſhall be no more</hi> with us, when we ſhall be tranſlated from theſe Rudimental forms below, unto the higheſt form, then fellow-ſcholars with the Angels. Then we who in this eſtate <hi>believe</hi> the Jubilation of theſe Spirits at our unfeigned Repentance, ſhall <hi>diſtinctly know</hi> the manner thereof in the life to come, when their nature ſhall be unveiled to us: then the propoſi<g ref="char:EOLhyphen"/>tion of the Text, with all the Myſteries of that King<g ref="char:EOLhyphen"/>dome, ſhall not eſcape our comprehenſion:
+<q>The unfeigned converſion of a ſinner, is the undoubted gratulation of Angels.</q>
+               </p>
+            </div>
+            <div type="part">
+               <head>REASONS.</head>
+               <p>The Reaſons whereof, are taken either from their re<g ref="char:EOLhyphen"/>lations to God or Man. In the Text, they are his An<g ref="char:EOLhyphen"/>gels, not onely by Creation, but Miſſion; for, <hi>Angel</hi> is not a Name of their <hi>Nature,</hi> but <hi>Imployment,</hi> and ſignifies <hi>Meſſenger.</hi> Now 'tis the glory of a ſaithful Meſſenger, to give his own will to be ſwallowed up in the wiſe and powerful will of his Lord that ſends him. And what Gods will is as to the Repentance of a ſin<g ref="char:EOLhyphen"/>ner, we reade in that eminent place, <hi>Ezek.</hi> 33.11. <hi>As I live, I deſire not the death of a ſinner, but rather that he ſhould repent, and live.</hi> There's his Proteſtation. <hi>Caſt away all your iniquities by which ye have tranſgreſſed, leſt iniquity be your ruine: Why will ye die, O houſe of Iſrael?
+<pb n="10" facs="tcp:118895:7"/>Ezek</hi> 18.30, 31. there's his Obteſtation, Thus be<g ref="char:EOLhyphen"/>cauſe God willeth, and ſo earneſtly willeth the Repen<g ref="char:EOLhyphen"/>tance of a ſinner, theſe Meſſengers, Nuncio's, Legates, Ambaſſadors, even Angels of God, rejoyce over man converted.</p>
+               <p>Nor doth their imployment from God onely, in a duteous compliance with his will, produce this joy in them, but their relations to Man alſo conſidered, do quicken them to this affection, demonſtrable in four particulars; In Proximity of Kindred; Family-rela<g ref="char:EOLhyphen"/>tions; School-acquaintance; and fourthly, in Society of Arms. The firſt I call <hi>Natural,</hi> the ſecond, <hi>Oeco<g ref="char:EOLhyphen"/>nomical;</hi> the third, <hi>Paedagogical;</hi> and the laſt, <hi>Martial.</hi> Of which perſpicuouſly and ſuccinctly in their order; and firſt, of the firſt ground <hi>Natural,</hi> or Proximity of Kindred.</p>
+               <p>Holy Angels are called <hi>The Sons of God, Job</hi> 1.6. and true Converts enrobed with the ſame Title. Now we are the <hi>Sons of God,</hi> 1 <hi>Joh.</hi> 3.2. they <hi>Sons,</hi> and we Sons of one God and Father; therefore Brethren, therefore near in Kindred. <hi>Jacobs</hi> youngeſt Son was <hi>Benjamin,</hi> the ſon of his right hand; but the eldeſt was <hi>Reuben,</hi> unſtable as water. But in the filiations now in hand, it is quite otherwiſe; the <hi>confirmed Angels</hi> are Gods <hi>Benjamins;</hi> and <hi>converted ſinners,</hi> whilſt they walk by faith, and not by ſight, are as <hi>Reuben.</hi> And though they are the elder brethren, yet their Seniority is not ſuch as <hi>Origen</hi> fancied, created long before this viſible world; for by theſe words, <hi>Before the founda<g ref="char:EOLhyphen"/>tion of the world,</hi> Scripture denotes Eternity, <hi>Eph.</hi> 1.4. yea, <hi>Moſes</hi> celebrates the Eternity of God, in that <hi>He was before the Mountains were brought forth, ere ever he
+<pb n="11" facs="tcp:118895:7"/>formed the earth and the world,</hi> Pſal. 90.2. Nor yet with others, do we think they were created the ſixth day, that is to make us Twins, even the <hi>productions of one birth:</hi> but we hold it moſt conſentaneous unto truth, That together with the ſupreme Heavens, they were created the firſt day, ſo that they were <hi>five dayes</hi> elder than <hi>Adam,</hi> who is called the Son of God, S. <hi>Luk.</hi> 3. <hi>ult.</hi> To which filiation (having ſinned) we are not reſtored but by Repentance, and then brethren of Angels, they by Creation, we by Converſion, both by Adoption.</p>
+               <p>Ah ſilly <hi>Coſroes,</hi> though the great Monarch of <hi>Per<g ref="char:EOLhyphen"/>ſia,</hi> it was thy debaſement to inſtyle thy ſelf Brother to the Sun and Moon!</p>
+               <p>Ah ridiculous hypocrite, <hi>Francis of Aſsiſe,</hi> in calling the Wolf thy Brother, the Fire thy Brother! We need not emendicate thoughts of humility from ſuch ſervile proſtitutions of our Nature; nor need we court thoſe great Luminaries of Heaven to own us in a Bro<g ref="char:EOLhyphen"/>therhood: We are exalted unto a Fraternity with the Angels, by our <hi>Repentance from dead works, to ſerve the living God;</hi> the firſt Motive of their Joy, and that <hi>Natural.</hi>
+               </p>
+               <p>I adde a ſecond, taken from <hi>Family-relations;</hi> they ſervants, and we ſervants of the great King: <hi>I am thy fellow-ſervant, and of the Prophets thy brethren, and of them that keep the words of this book,</hi> ſaith the Angel, <hi>Rev.</hi> 22.9. 'Tis true, S. <hi>John</hi> was an Apoſtle of the <hi>greateſt Magnitude;</hi> yet was it no ſmall dignation in the Angel who was perfect, to call him Brother, tending to perfection. Sure I am, it was much greater when the Angel profeſt himſelf a <hi>fellow-ſervant to the Pro<g ref="char:EOLhyphen"/>phets,</hi> men ſeparated to the Miniſtery, but not aſſumed
+<pb n="12" facs="tcp:118895:8"/>to the height of Apoſtolical Function. And yet he doth not ſtick there, he comes lower, <hi>and of them that keep the ſayings of this book,</hi> even the meaneſt of Chriſts Menial ſervants.</p>
+               <p>The difference betwixt a Subject and a Servant is known to every one. All the people of <hi>Spain</hi> are the Subjects of their King, but they onely that are enrolled in the Houſhold-book are properly his Servants. A<g ref="char:EOLhyphen"/>mongſt whom, ſome are of his Bed-chamber, others of his Preſence-chamber, in near and dear relations <hi>above ſtairs,</hi> yet diſdain they not to call them of the Houſhold which are <hi>below ſtairs,</hi> their fellow-ſervants. Angels, Apoſtles, Evangeliſts, Prophets, Martyrs, Vir<g ref="char:EOLhyphen"/>gins, Confeſſors, even all the Saints departed, are Ser<g ref="char:EOLhyphen"/>vants of the King of kings, and their attendance is <hi>above ſtairs,</hi> I mean, in Heaven (all in Heaven for qua<g ref="char:EOLhyphen"/>lity, not equality of Glory) and yet the moſt imme<g ref="char:EOLhyphen"/>diate and eminent Officers, to wit, Angels, do not ſcorn to call us penitents <hi>below ſtairs,</hi> far removed from the Beatifical Preſence of our God, their <hi>fellow-ſervants.</hi> 'Tis frequent in the Courts of Princes, ſome Servant to ſtart up, and plauſibly to perſwade his Lord to re<g ref="char:EOLhyphen"/>trench his family; yet ſuch ſpecious counſels are often forg'd upon the Anvile of Self-intereſt: but that Ser<g ref="char:EOLhyphen"/>vant to whom the honour of his Lord is dear and ſa<g ref="char:EOLhyphen"/>cred, delights to ſee him numerouſly attended. Good Angels (for of them onely we ſpeak all this while) are moſt zealous of Gods glory, which is moſt ſweetly ma<g ref="char:EOLhyphen"/>nifeſted in the great Court of Converts, who being called <hi>out of the ſtate of Subjects</hi> at large, to be properly of the <hi>Houſhold of God,</hi> thoſe ancient Courtiers, thoſe prime Servants the Angels, are therewith gladſomely
+<pb n="13" facs="tcp:118895:8"/>affected. Which is the ſecond ground, <hi>viz. Occonomical.</hi>
+               </p>
+               <p n="3">3. They inſtruct, and men do learn. The Angel <hi>Gabriel</hi> doth expound the viſion of the four Beaſts unto the Prophet <hi>Dan.</hi> 6.16. informs him of the 70 weeks, <hi>cap.</hi> 9. <hi>ver.</hi> 21. unto the end; yea, reveals many other great myſteries unto him, in the 10, 11 &amp; 12 Chapters of that book. So in the Old. In the New Teſtament, the very ſame Angel doth annunciate to the holy Vir<g ref="char:EOLhyphen"/>gin the Incarnation of the Son of God, <hi>in her, of her, Luke</hi> 1.26. Angels acquaint the Shepherds with the joyful news of his Nativity; the Reſurrection of Chriſt declared by an Angel to the women, <hi>Matth.</hi> 28.5. the Apoſtles themſelves are inſtructed in his Aſcenſion, and his return to Judgement, by two Angels, <hi>Act.</hi> 1.11. yea, the future eſtate of the Church, until <hi>the day of the re<g ref="char:EOLhyphen"/>ſtitution of all things,</hi> is revealed by an Angel, <hi>I Jeſus have ſent mine Angel to teſtifie theſe things unto you in the Churches,</hi> Rev. 22.16.</p>
+               <p>Some Arminians do teach, That at this day God uſeth the viſible Miniſtery of Angels for the converſion of Pagans, to whom Chriſtian Paſtors are totally want<g ref="char:EOLhyphen"/>ing: Of which I will ſay no more, than what <hi>Gabriel Biel</hi> hath long ago (following S. <hi>Hierom</hi>) concluded of ſuch ſpeculations, Whatſoever is not founded upon ſa<g ref="char:EOLhyphen"/>cred Scripture, either expreſly, or by juſt conſequence, <hi>(and neither way, in my opinion, is this opinion)</hi> is with the ſame facility rejected as affirmed. When the Goſpel of Chriſt lay hid in a Myſtery, when the foundations of the Chriſtian Church were not laid, when the Canon of the ſacred Oracles was not completed, it ſeemed good to the wiſdom of God, to relieve the infirmity of man, by ſenſible and exteriour Revelations of Angels. But
+<pb n="14" facs="tcp:118895:9"/>now that the light of the Goſpel is ſo clear in it ſelf, and ſo clearly ſealed up and confirmed, ſuch vocal and outward Miniſtrations under ſenſible and aſſumed ſhapes are not to be expected; and yet well are not they, who deny all power to the holy Angels to act upon the in<g ref="char:EOLhyphen"/>ward ſenſes of man. For my part, (with the good leave of my Religious and Learned Brethren be it ſpoken) I doubt not but <hi>good Angels ſuggeſt good counſels, tender holy motions, offer pious thoughts, yea refreſh the often parched ſpirits of gracious men with inward joy.</hi> Shall wicked Angels ſteal the Word that was ſown in the hearts of men, leſt they ſhould believe and be ſaved, <hi>Luke</hi> 8.12? Shall the Devil <hi>work</hi> in the children of diſ<g ref="char:EOLhyphen"/>obedience, <hi>Eph</hi> 2.2? Enormouſly diſquiet the affecti<g ref="char:EOLhyphen"/>ons, 1 <hi>Sam.</hi> 16.15? yea, inject wicked thoughts <hi>with ſucceſs</hi> in godly men, 1 <hi>Chron.</hi> 21.1? Tell me, if any man can tell me, with what ſhadow of truth can the Angels of God be excluded from all actings and opera<g ref="char:EOLhyphen"/>tions upon the inward ſenſes of man. To conclude this third Incentive: If <hi>Ariſtotle</hi> broke forth in joy, when he did reade the learned Epiſtles of his Scholar <hi>Alexan<g ref="char:EOLhyphen"/>der;</hi> If it be a Crown of rejoycing to the man of God, to ſee the people of his charge not children, but men in underſtanding: How enlarged are the gratulations of Angels, when their motions are attended, and their mo<g ref="char:EOLhyphen"/>nitions obeyed, to our further progreſs in the School of Grace, in which we are admitted, and matriculated by Repentance? This ground is <hi>Paedagogical.</hi> There re<g ref="char:EOLhyphen"/>maineth one, and but one, taken from <hi>Society of Arms,</hi> which I called <hi>Martial.</hi>
+               </p>
+               <p>Humane Stories tell us, That the ſcarce numerable Army of <hi>Xerxes,</hi> conducted againſt <hi>Greece,</hi> was ſo de<g ref="char:EOLhyphen"/>feated
+<pb n="15" facs="tcp:118895:9"/>by Sea and Land, that very few of them return<g ref="char:EOLhyphen"/>ed home: but that was a continued overthrow of many dayes. <hi>Aetius</hi> the Proconſul, that prodigie of valour, kill'd 20000 Barbarians, led by <hi>Attilas</hi> the ſcourge of God, in one day. The like deſtruction is reported to have faln upon the Moors and Saracens, by the wiſe Conduct of <hi>Charls Martel,</hi> in one day. Yet more, five hundred thouſand choſen men of <hi>Iſrael</hi> fell by the ſword of <hi>Abijah</hi> and his loyal Subjects, in one day. But thou<g ref="char:EOLhyphen"/>ſands of thouſands, millions of millions, myriads of myriads of Angels fell <hi>in one hour.</hi> When a battel proves more than deſperate, by the taking of the Royal Standard, the ſurprizal of the Canons and Magazine, the deſtruction of a great part of their Army, yea the death of the General added, What joy is it to the bro<g ref="char:EOLhyphen"/>ken limb of that diſperſed Army, to ſee it ſelf vigo<g ref="char:EOLhyphen"/>rouſly recruited? <hi>God hath numbred unto himſelf an Ar<g ref="char:EOLhyphen"/>my, like unto the Army that he had loſt,</hi> (or rather and in<g ref="char:EOLhyphen"/>deed onely ſo, that had wilfully loſt it ſelf) <hi>hoſes for horſes, chariots for chariots;</hi> The Ranks and Files of lapſed Angels, are fill'd up with new Recruits, men and women penitent for their ſins; matter of joy, extati<g ref="char:EOLhyphen"/>cal joy unto the holy Angels. And thus they who own us in the womb of the Church Brethren, in the houſe of God Fellow-ſervants, in the ſchool of Chriſt our Monitors, in <hi>the field of the Church perform many Military ſervices for us.</hi> I will name but two:</p>
+               <p n="1">1. They are <hi>watchful Centinels,</hi> in deſtroying the de<g ref="char:EOLhyphen"/>vices of the enemy, and giving a timely alarm to the happy fruſtration of the ſame; <hi>Ariſe and take the babe and his mother, and flee into Egypt, and be there until I bring thee word, for Herod will ſeek the babe to deſtroy him,</hi> S. <hi>Mat.</hi> 2.13.</p>
+               <pb n="16" facs="tcp:118895:10"/>
+               <p n="2">2. They are <hi>faithful Life-guards: He ſhall give his Angels charge over thee in all thy wayes,</hi> Pſal. 91.11. <hi>Ja<g ref="char:EOLhyphen"/>cob</hi> had experience hereof, whoſe Convoy they were into the Land of <hi>Canaan; This is Gods Hoſt,</hi> Gen. 32.2. Such was their diligent cuſtody of <hi>Eliſha,</hi> when the <hi>Sy<g ref="char:EOLhyphen"/>rian</hi> Army came to take him, who in contemplation of his <hi>guard,</hi> broke forth into that expreſſion of high con<g ref="char:EOLhyphen"/>fidence, <hi>They that are with us, are more than they that are with them,</hi> 2 Kings 6.16. And hitherto of the Rea<g ref="char:EOLhyphen"/>ſons, the two Reaſons of this Propoſition, <hi>The un<g ref="char:EOLhyphen"/>feigned converſion of a ſinner, is the undoubted rejoycing of Angels;</hi> to wit, their relations unto God, whoſe An<g ref="char:EOLhyphen"/>gels they are, and their relations unto Man, diſcourſed unto you to be <hi>Natural, Paedagogical, Oeconomical,</hi> and <hi>Martial.</hi> It remaineth we come to the Queſtions, which are two.</p>
+               <p>The former, <hi>How come the Angels of Heaven to know the converſion of a ſinner upon earth?</hi>
+               </p>
+               <p>I anſwer, Converſion is either <hi>paſsive or active.</hi> This diſtinction is neceſſarily to be maintained againſt the <hi>Flatterers of Nature, Enemies of Grace:</hi> The former I call <hi>Converſion in the heart,</hi> the latter <hi>Converſion of the heart.</hi> The firſt is the immediate act of God, hid from the <hi>Lyncean</hi> eyes of thoſe Spirits, but hid a very little while, Gods act being infruſtrably followed with our actings, which makes converſion of the heart; from which effect the Eagle-ſighted Angel concludes the an<g ref="char:EOLhyphen"/>tecedent cauſe, to wit, Converſion in the heart.</p>
+               <p n="2">2 Queſt. <hi>Is the converſion of every particular ſinner made known unto all the Angels of God?</hi>
+               </p>
+               <p>I anſwer, Whatſoever is of the eſſential beatitude of Angels, is known unto them all: Now their know<g ref="char:EOLhyphen"/>ledge
+<pb n="17" facs="tcp:118895:10"/>of thy repentance, or my converſion, is <hi>acciden<g ref="char:EOLhyphen"/>tal,</hi> not <hi>eſſential</hi> to their bliſs. It is enough that ſome Angels do know it, and rejoyce therein: As for other Angels far removed, at leaſt not definitively preſent in that <hi>Ubi,</hi> where the new convert is, when they come to know this holy change, it is either by <hi>revelation</hi> from God, or he approving it, by <hi>communication of the cir<g ref="char:EOLhyphen"/>cumſtant or concerned Angel, one or more.</hi>
+               </p>
+               <p>Briefly, though the wiſdom of Angels is exceeding great, yet it is finite; very large, yet limited: for nei<g ref="char:EOLhyphen"/>ther by their <hi>Matutine</hi> or <hi>Veſpertine</hi> knowledge in the language of the Schools, borrowed from S. <hi>Auſtine;</hi> neither by their natural or experimental, infuſed or ac<g ref="char:EOLhyphen"/>quired knowledge in the expreſſion of Moderns, have they a <hi>diſtinct and intuitive inſpection of future contin<g ref="char:EOLhyphen"/>gencies, depending upon the ſingular providence of God, or mutability and indeterminateneſs of mans will, without particular revelation from God;</hi> and conſequently, reade not the inmoſt thoughts of men, but when they are rendred <hi>legible</hi> by <hi>omanations</hi> and ſigns; for, <hi>God onely knows the thoughts of the hearts of all the children of men,</hi> as it is in the dedication-prayer of <hi>Solomon,</hi> 1 King. 8.39. In a word, God <hi>ſees our thoughts afar off,</hi> even before they are <hi>formed;</hi> Angels, <hi>near at hand,</hi> when they are <hi>performed,</hi> which is abundant matter of their joy at the converſion of a ſinner: <hi>Likewiſe I ſay unto you, There is joy in the preſence, &amp;c.</hi> And now ſuffer the word of Ex<g ref="char:EOLhyphen"/>hortation.</p>
+               <p>Man is a Creature, not more remarkable for <hi>Inven<g ref="char:EOLhyphen"/>tion,</hi> than <hi>Imitation;</hi> of things worthy, very ſeldome; but of things to be abhorred, too often. <hi>Natural de<g ref="char:EOLhyphen"/>formities</hi> in the body, have been copied out as ſingular
+<pb n="18" facs="tcp:118895:11"/>beauties, and <hi>Moral infirmities</hi> of the ſoul of ſome, have paſt into vices, National and Epidemical. Have we not read and ſeen unſound Opinions onely <hi>ſipt</hi> by great ones, taken down in <hi>great draughts</hi> by the injudicious multitude? The calumniating ſuperciliouſneſs of thoſe Demagogues, Scribes and Phariſees, had empoyſoned the fillier people, had not our Saviour prepared this Antidote; and the iron-like auſterity of the <hi>Novatians</hi> denying Repentance to ſuch as ſinned after Baptiſm, and excluding all relapſers, how penitent ſoever, from Church-Communion, had over-ſpred the Primitive Church, even unto precipitating deſperation, had not the holy Fathers, burning with the zeal of Chriſts truth, maturely and vigorouſly oppoſed the ſame. Theſe certainly are not for us to imitate, unleſs we chuſe ra<g ref="char:EOLhyphen"/>ther to conteſſerate with <hi>Hereticks,</hi> than <hi>Orthodox Pro<g ref="char:EOLhyphen"/>feſſors:</hi> All the Reformed Churches, and that of <hi>Rome</hi> alſo, condemning, as thoſe <hi>painted Perfectioniſts</hi> of old, ſo them likewiſe who tread in their ſteps at this day. What, did I mention the Reformed, the Roman Churches? To congratulate the ſalvation of the Gentiles, was the practice of the Chriſtian Church of the Jews; for when they heard <hi>Peters</hi> Apologie, <hi>they held their peace, and glorified God, ſaying, Then hath God alſo given unto the Gentiles repentance unto life,</hi> Act. 11.18. 'Tis the pecu<g ref="char:EOLhyphen"/>liar character of good Angels in the Text.</p>
+               <p>Nay, yet higher, this ſacred affection is in God the Father, under the tegument of the Prodigals father; in God the Son, under the emblem of a Shepherd; and who can doubt at the delight of the holy Ghoſt herein, ſince Repentance of a ſinner is ſignally his work?</p>
+               <pb n="19" facs="tcp:118895:11"/>
+               <p>But will not you, the Angels of the Churches, law<g ref="char:EOLhyphen"/>ful Miniſters of the Word and Sacraments, upbraid us with our aberration, if we return unto the Truth, from whence in wandring we have even wearied our ſelves? Far be it from us: fear it not, that meek man having found the loſt Sheep, doth not ſpurn it with his <hi>diſdainful foot,</hi> nor bruiſe it with his <hi>weighty ſtaff,</hi> nor rend it with his <hi>cruel dogs,</hi> but layes it upon his ſhoul<g ref="char:EOLhyphen"/>ders with <hi>rejoycing.</hi> This affection is in us, the Angels of the Churches. The compaſſionate father hearing of his Prodigals return, doth not permit the <hi>ſurly Porter</hi> for to ſhut the gate againſt him, nor the <hi>hired Servants</hi> to arm themſelves, oppoſing his admittance; but he comes forth and meets his Son, whom he ob<g ref="char:EOLhyphen"/>ſerv'd to be reform'd; he runs to him, falls upon his neck, and kiſſeth him; Neceſſaries, ſhoes for his feet, clothes for his back; Ornaments, the beſt Robe, and a Gold Ring, frankly, freely beſtowed; yea, the fatted Calf is kill'd; and the harmonious Muſick proclaims aloud his hearty welcome to his fathers houſe: No objecting his <hi>former wayes, no twitting him by his fa<g ref="char:EOLhyphen"/>ther with his fore-going courſes.</hi> This affection is in us, the Angels of the Churches. The diligent wo<g ref="char:EOLhyphen"/>man, who having lighted a candle, and ſwept the houſe, and gave not over ſeeking, till ſhe had found the piece of Money which was loſt, doth not diſ<g ref="char:EOLhyphen"/>charge her <hi>enflamed choler</hi> upon it; nor doth ſhe take it up with <hi>wrathful chafing,</hi> ſaying, Thou art an unfortunate piece, which hath brought me more trouble in thy <hi>queſt,</hi> than I ſhall have comfort in thy <hi>uſe:</hi> No, <hi>but having found it, ſhe calleth her neigh<g ref="char:EOLhyphen"/>bours
+<pb n="20" facs="tcp:118895:12"/>and friends together, ſaying, Rejoyce with me, for I have found the piece of money that was loſt. Like<g ref="char:EOLhyphen"/>wiſe I ſay unto you, There is joy in the preſence of the Angels of God over one ſinner that repenteth.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:118895:12"/>
+            <head>Theſe Books following, are Printed for <hi>Francis Smith,</hi> and are to be ſold at his Shop, in Flying-Horſe-Court, in <hi>Fleetſtreet,</hi> near <hi>Chancery Lane</hi> end..</head>
+            <p>
+               <hi>Chriſtianiſmus Redivivus,</hi> Chriſtendome both Unchriſten'd, and new Chriſten'd; or that good old way of Dipping &amp; Inchurch<g ref="char:EOLhyphen"/>ing of Men and Women after Faith and Repentance, vindicated; Alſo the Writings of Mr. <hi>Baxter,</hi> Dr. <hi>Featley,</hi> Dr. <hi>Holms,</hi> Mr. <hi>Mar<g ref="char:EOLhyphen"/>ſhall,</hi> Mr. <hi>Blake,</hi> Mr. <hi>Cook,</hi> Mr. <hi>Cotton,</hi> Anſwered; with a Vindi<g ref="char:EOLhyphen"/>cation of Ordinances till Chriſts perſonal Coming, againſt <hi>Ranters</hi> and <hi>Quakers,</hi> proved, in <hi>Follio.</hi>
+            </p>
+            <p>Truth prevailing againſt the fieirceſt Oppoſition, or an anſwer to Mr. <hi>John Goodwins</hi> Water Dip<g ref="char:EOLhyphen"/>ping, no firm footing for Church-Communion, in <hi>quàrto.</hi>
+            </p>
+            <p>The Damnable Hereſies, horrid Blaſphemies, Mockings, Railings, Deceit and Diſhoneſty of the <hi>Quaker</hi> laid open, in <hi>4to.</hi>
+            </p>
+            <p>The Free-Grace of God to all the Sons of <hi>Adam,</hi> vindicated; with 20. Queries to all men con<g ref="char:EOLhyphen"/>cerned, <hi>4to.</hi>
+            </p>
+            <p>The true Tything of the Goſpel Miniſters, proving that Tyths is not to be inforc'd upon Members of true Churches, neither by Gods Law nor Mans; and that Chriſt as King in the heart is to make Laws for it, <hi>4to.</hi>
+            </p>
+            <p>A Contention for Truth in two publick Diſputations before thou<g ref="char:EOLhyphen"/>ſands of people, touching the Bap<g ref="char:EOLhyphen"/>tiſm of Infants, whether Lawful or Unlawful, in <hi>4to.</hi>
+            </p>
+            <p>A Glaſs of Juſtification, or the Work of Faith with power; pub<g ref="char:EOLhyphen"/>liſhed on purpoſe to rectifie ſome dangerous, other damning miſ<g ref="char:EOLhyphen"/>takes of men about their Faith, <hi>4to</hi>
+            </p>
+            <p>Sions Redemption diſcovered, wherein the manner of the riſe of the Man of Sin, called the vile Perſon, is proved not to be the Romiſh Babylon; Together with a diſcription of Chriſts perſonal Reign upon earth 100. years, in 10 particulars diſcovered, in <hi>8to.</hi>
+            </p>
+            <p>Alſo a diſcovery of the Latitude of the loſs of the earthly Paradiſe by Original Sin, in <hi>8to.</hi>
+            </p>
+            <p>The true Goſpel Faith, in 30. Articles, manifeſted.</p>
+            <p>A Voice from the Word of God to the <hi>Quakers,</hi> in <hi>8to.</hi>
+            </p>
+            <p>Laying on of Hands aſſerted, under thoſe ſeveral conſiderations minded in the New-Teſtament; 1. Upon perſons for Healing, by Annointing with Oyl: 2. Upon perſons to Office: 3. Upon Be<g ref="char:EOLhyphen"/>lievers Baptiſed as ſuch, in 12 <hi>s.</hi>
+            </p>
+            <p>Dagons Downfal before the Ark of the Lord; Wherein are diſcovered the two Covenants that God made with <hi>Abraham</hi> and his two Seeds, in <hi>8to.</hi>
+            </p>
+            <p>Laying on of Hands on Bapti<g ref="char:EOLhyphen"/>ſed Believers as ſuch, tryed by the Touch-ſtone and found Gold.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
